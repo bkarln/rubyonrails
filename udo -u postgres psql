@@ -1,0 +1,15 @@
+                                   List of databases
+        Name         |  Owner   | Encoding | Collate |  Ctype  |   Access privileges   
+---------------------+----------+----------+---------+---------+-----------------------
+ postgres            | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ psql-Dorel          | Karol    | UTF8     | C.UTF-8 | C.UTF-8 | 
+ railspj             | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ railspj_development | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ railspj_test        | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ roials              | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ template0           | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +
+                     |          |          |         |         | postgres=CTc/postgres
+ template1           | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +
+                     |          |          |         |         | postgres=CTc/postgres
+(8 rows)
+
